@@ -1,6 +1,6 @@
 @media screen and (max-width: 812px) {
   body {
-    overflow: hidden;
+    overflow-x: hidden;
   }
   .header__color__active {
     background-color: #fff;
