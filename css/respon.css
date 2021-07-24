@@ -1,4 +1,7 @@
 @media screen and (max-width: 812px) {
+  body {
+    overflow: hidden;
+  }
   .header__color__active {
     background-color: #fff;
     transition: 0.5s;
